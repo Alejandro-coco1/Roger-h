@@ -216,11 +216,13 @@ footer {
 }
 
 .tiktok-section h2 {
+    text-align: center;
     margin-bottom: 1rem;
     color: #4CAF50;
 }
 
 .tiktok-section p {
+    text-align: center;
     margin-bottom: 2rem;
     color: #333;
     font-size: 1.2rem;
